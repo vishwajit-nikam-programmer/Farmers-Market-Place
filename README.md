@@ -1,2 +1,2 @@
 # Farmers-Market-Place
-Farmers Marketplace is a full-stack e-commerce platform connecting farmers directly with customers for fresh food sales, featuring role-based access, cart management, and order processing using modern web technologies.
+Farmers Marketplace is an online fresh food e-commerce platform designed to eliminate middlemen by enabling farmers to sell products directly to customers. The application supports product browsing, cart operations, order placement, and role-based access for Admin and Customers. Built using a multi-tier architecture with React on the frontend and Spring Boot, ASP.NET Core, and Node.js on the backend, with MySQL for data persistence.
